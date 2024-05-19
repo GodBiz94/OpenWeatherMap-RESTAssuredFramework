@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OpenWeatherMap API Tests">
+	
+	<test name="API Test">
+		
+		<classes>
+			<class name="serviceRequest.CurrentWeatherAPI"/>
+			
+		</classes>
+		
+	</test>
+</suite>

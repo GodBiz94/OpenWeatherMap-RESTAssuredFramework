@@ -1,0 +1,10 @@
+key,value
+base.url,https://api.openweathermap.org/data/2.5/
+weather.endpoint,weather
+forecast.endpoint,forecast
+latitude,22.5784
+longitude,88.3639
+appid,86fe63b7a93aa01cdfd3d27215fb0b9e
+invalid_latitude,000
+invalid_longitude,zzzzzz
+invalid_appid,76fe63b7a93aa01cdfd3d27215fb0b9e
